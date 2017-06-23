@@ -19,8 +19,8 @@
 
     <style name="Theme.Bacon" parent="@style/Theme.AppCompat">
         <item name="colorPrimary">#673AB7</item>
-        <item name="colorPrimaryDark">#512DA8</item>
-        <item name="colorAccent">#009688</item>
+        <item name="colorPrimaryDark">#38006b</item>
+        <item name="colorAccent">#f9a825</item>
         <item name="android:windowContentTransitions">true</item>
     </style>
 
